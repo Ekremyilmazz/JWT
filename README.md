@@ -4,9 +4,9 @@ This project is a JWT (JSON Web Token) based authentication API developed using 
 
 ##Features
 
--User registration
--User login
--JWT-based authentication
--Protected routes
--Password hashing
--MongoDB database integration
+- User registration
+- User login
+- JWT-based authentication
+- Protected routes
+- Password hashing
+- MongoDB database integration
