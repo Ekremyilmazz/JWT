@@ -46,5 +46,8 @@ This project is a JWT (JSON Web Token) based authentication API developed using 
 ### Register on Postman:
 ![image](https://github.com/user-attachments/assets/b4da08c9-47ba-440a-9630-e99d7c881d09)
 
+### Saving the user in MongoDB Compass (you can also use MongoDB Atlas):
+![image](https://github.com/user-attachments/assets/6c19b9be-bd11-4655-ba3f-497ec616fecd)
+
 
    
