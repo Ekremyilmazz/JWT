@@ -8,6 +8,25 @@ This JWT Authentication API provides a secure user authentication system with th
 - **Protected Routes**: Ensures secure access to user-specific data
 - **Database Integration**: Stores user information in MongoDB with Mongoose ODM
 
+### Key Features
+
+- Secure password hashing using bcryptjs
+- JWT token generation and validation
+- Protected routes for authenticated users only
+- MongoDB integration for persistent data storage
+- Error handling and validation
+- Environment variable configuration
+
+### Use Cases
+
+- User registration with email and password
+- Secure login with JWT token generation
+- Protected routes for authenticated users
+- User data retrieval with token validation
+- Session management using JWT
+
+This API can serve as a foundation for any application requiring user authentication and secure route access.
+
 ## Features
 
 - User registration
