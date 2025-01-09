@@ -37,5 +37,14 @@ This project is a JWT (JSON Web Token) based authentication API developed using 
    - PORT=3000
    - MONGO_URI=mongodb://localhost:27017/JWT
    - JWT_SECRET=your-secret-key
+5. Start the server:
+   ```
+   npm run dev
+
+## Screenshots:
+
+### Register on Postman:
+https://github.com/user-attachments/assets/b4da08c9-47ba-440a-9630-e99d7c881d09
+
 
    
