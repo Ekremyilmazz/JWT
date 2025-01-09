@@ -1,6 +1,12 @@
 # JWT Authentication API
 
-This project is a JWT (JSON Web Token) based authentication API developed using Node.js and MongoDB
+This JWT Authentication API provides a secure user authentication system with the following core functionalities:
+
+- **User Management**: Handles user registration and login operations securely
+- **Token-Based Authentication**: Uses JWT (JSON Web Token) for maintaining user sessions
+- **Password Security**: Implements bcrypt hashing for secure password storage
+- **Protected Routes**: Ensures secure access to user-specific data
+- **Database Integration**: Stores user information in MongoDB with Mongoose ODM
 
 ## Features
 
