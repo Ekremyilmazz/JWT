@@ -44,7 +44,7 @@ This project is a JWT (JSON Web Token) based authentication API developed using 
 ## Screenshots:
 
 ### Register on Postman:
-https://github.com/user-attachments/assets/b4da08c9-47ba-440a-9630-e99d7c881d09
+![image](https://github.com/user-attachments/assets/b4da08c9-47ba-440a-9630-e99d7c881d09)
 
 
    
