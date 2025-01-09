@@ -27,15 +27,6 @@ This JWT Authentication API provides a secure user authentication system with th
 
 This API can serve as a foundation for any application requiring user authentication and secure route access.
 
-## Features
-
-- User registration
-- User login
-- JWT-based authentication
-- Protected routes
-- Password hashing
-- MongoDB database integration
-
 ## Technologies
 
 - Node.js
