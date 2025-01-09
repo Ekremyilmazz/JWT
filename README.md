@@ -33,7 +33,7 @@ This project is a JWT (JSON Web Token) based authentication API developed using 
 3. Install dependencies:
    ```
    npm install express mongoose jsonwebtoken bcryptjs dotenv
-4. Create .env file:
+4. Create .env file (Also create a "JWT" database and "users" collection under "JWT":
    - PORT=3000
    - MONGO_URI=mongodb://localhost:27017/JWT
    - JWT_SECRET=your-secret-key
